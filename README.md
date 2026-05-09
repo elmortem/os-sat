@@ -5,7 +5,11 @@
 
 This repository is not a scientific publication, not a physics paper, and not a claim of a proven theory. It is a speculative creative framework intended for discussion, refinement, criticism, and possible use in fiction, worldbuilding, games, essays, or experimental thought.
 
-The main theory text is kept in a separate document.
+The main theory text is kept in separate documents, available in several languages:
+
+- [English](theory-en.md)
+- [Русский](theory-ru.md)
+- [Српски](theory-sr.md)
 
 ---
 
